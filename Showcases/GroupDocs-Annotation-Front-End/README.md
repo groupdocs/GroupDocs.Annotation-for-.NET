@@ -1,23 +1,23 @@
 
-##GroupDocs.Annotation for .NET MVC Front-End Examples
+# GroupDocs.Annotation for .NET MVC Front-End Examples
 
 
-## Prerequisite
+# Prerequisite
 
 + Visual Studio 2012 or later.
 
-+ GroupDocs.Annotation 16.11.0.
++ GroupDocs.Annotation 17.8.0.
 
-##Features
+# Features
 
 + Upload Source file
 + Apply Annotations
 + Save files and allow to view Ouput in viewer using any standard Browser
 
 
-##How to Run the Examples?
+# How to Run the Examples?
 
-The package contains two projects, one for C# examples and other for Visual Basic examples. Follow the given steps to proceed with project build:
+The package contains C# examples. Follow the given steps to proceed with project build:
 
 * Extract the downloaded project and open the solution file in Visual Studio
 * Right click on solution and press "Enable NuGet package Restore"
