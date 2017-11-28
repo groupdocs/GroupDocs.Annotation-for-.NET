@@ -1,6 +1,6 @@
 # GroupDocs.Annotation for .NET
 
-This package contains [Examples](https://github.com/groupdocsAnnotation/GroupDocs_Annotation_NET/tree/master/Examples) and  [Showcases](https://github.com/groupdocsAnnotation/GroupDocs_Annotation_NET/tree/master/Showcases) for [GroupDocs.Annotation for .NET](https://www.groupdocs.com/products/annotation/net) that will help you in understanding the API's working and writing your own applications.
+This package contains [Examples](https://github.com/groupdocsAnnotation/GroupDocs_Annotation_NET/tree/master/Examples) and  [Showcases](https://github.com/groupdocsAnnotation/GroupDocs_Annotation_NET/tree/master/Showcases) for [GroupDocs.Annotation for .NET](https://products.groupdocs.com/annotation/net) that will help you in understanding the API's working and writing your own applications.
 
 GroupDocs.Annotation is essentially devised to add annotations in documents within a .NET applications. API comes with an extensive number of markup tools. These tools permit users to highlight, strikeout, and comment on text and images. This doesn't end up here user can avail numerous properties to control annotation's appearance in the document.
 
@@ -18,7 +18,7 @@ Directory | Description
 [Plugins](https://github.com/groupdocs-Annotation/GroupDocs.Annotation-for-.NET/tree/master/Plugins/GroupDocs_Annotation_VSPlugin)  | Contains the plugins related to GroupDocs.Annotation 3.x for Visual Studio.
 ## Resources
 + **Website:** [www.groupdocs.com](http://www.groupdocs.com)
-+ **Product Home:** [GroupDocs.Annotation for .NET](https://www.groupdocs.com/products/annotation/net)
++ **Product Home:** [GroupDocs.Annotation for .NET](https://products.groupdocs.com/annotation/net)
 + **Product API:** [API of GroupDocs.Annotation for .NET](https://apireference.groupdocs.com/net/annotation)
 + **Download:** [Download GroupDocs.Annotation for .NET](https://downloads.groupdocs.com/annotation/net)
 + **Documentation:** [GroupDocs.Annotation for .NET Documentation](https://docs.groupdocs.com/display/Annotationnet/Introducing+GroupDocs.Annotation+for+.NET)
